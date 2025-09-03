@@ -5,7 +5,7 @@ import { ContentContainer }  from '../ContentContainer'
 export const Footer = () => {
   return (
     <footer>
-      <ContentContainer>
+      <ContentContainer className={styles['footer-cont']}>
         footer
       </ContentContainer>
     </footer>

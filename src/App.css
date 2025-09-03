@@ -1,0 +1,13 @@
+
+/* making the footer to stay  at the bottom*/
+
+#app-container{
+    min-height: calc(100vh - 100px);
+    position: relative;
+    width : 100vw;
+
+}
+#scrollable{
+    padding-top: 60px;
+
+}

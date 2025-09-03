@@ -10,8 +10,8 @@ function App() {
 
   return (
     <>
-    <div>
-    <div>
+    <div id='app-container'>
+    <div id ='scrollable'>
         <Navbar />
          <Text variant='h1' >Hi there</Text>
          <Text variant='h2'>Hi there</Text>
